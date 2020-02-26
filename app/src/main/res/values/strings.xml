@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PraAssessment</string>
+    <string name="rumuspersegipanjang">Persegi Panjang</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Mia Anjani Darojatun Salam</string>
+    <string name="nim">6706184111</string>
+    <string name="kelas">D3IF-42-03</string>
+    <string name="about">About</string>
+    <string name="alassegitiga">Alas</string>
+    <string name="tinggiSegitiga">Tinggi</string>
+    <string name="hitungsegitiga">Hitung</string>
+    <string name="luassegitiga">Luas = 0</string>
+    <string name="kelilingsegitiga">Keliling = 0</string>
+    <string name="sharesegitiga">share</string>
+    <string name="panjangpersegi">Panjang</string>
+    <string name="lebarpersegi">Lebar</string>
+    <string name="hitungpersegi">Hitung</string>
+    <string name="luaspersegi">Luas = 0</string>
+    <string name="kelilingpersegi">Keliling = 0</string>
+    <string name="sharepersegi">Share</string>
+    <string name="rumuspersegi">Persegi Panjang</string>
+    <string name="rumussegitiga">Segitiga</string>
+</resources>
